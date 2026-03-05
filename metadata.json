@@ -1,0 +1,5 @@
+{
+  "name": "Global Flight Tracker",
+  "description": "Real-time plane tracking application using OpenSky Network API.",
+  "requestFramePermissions": []
+}
